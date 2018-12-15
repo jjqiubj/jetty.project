@@ -10,7 +10,7 @@
   <description>Jmh classes for Jetty</description>
   <url>http://www.eclipse.org/jetty</url>
   <properties>
-    <bundle-symbolic-name>${project.groupId}.jmh</bundle-symbolic-name>
+    <jpms-module-name>${project.groupId}.jmh</jpms-module-name>
   </properties>
   <build>
     <plugins>
